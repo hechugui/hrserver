@@ -1,5 +1,6 @@
 package org.sang.bean;
 
+//站内聊天用，现在不用管
 /**
  * Created by sang on 2018/1/29.
  */
